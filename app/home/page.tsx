@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Header />
-      <Button variant={"outline"}>click me now</Button>
+      <Button className="mx-6">click me now</Button>
     </div>
   );
 }
